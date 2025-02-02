@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Задание №1");
-        byte malo = 10;
+        byte malo = 100;
         System.out.println("Значение переменной malo, с типом Byte равно " + malo);
         short sredne = 10000;
         System.out.println("Значение переменной sredne, с типом Short равно " + sredne);
